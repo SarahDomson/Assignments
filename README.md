@@ -8,7 +8,7 @@
 
 ## Documentation
 
-The links below redirect to Replit
+The link below redirect to Replit
 
 [Registration](https://RegistrationForm.sarahdomson.repl.co)
 
