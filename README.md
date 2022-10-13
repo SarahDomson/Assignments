@@ -8,8 +8,10 @@
 
 ## Documentation
 
-The link below redirect to Replit
+The links below redirect to Replit
 
-[Registration](https://RegistrationForm.sarahdomson.repl.co)
+[Registration and Login](https://registrationForm.sarahdomson.repl.co)
+
+[Portfolio](https://portfolio.sarahdomson.repl.co)
 
 
